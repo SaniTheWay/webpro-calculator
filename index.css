@@ -1,0 +1,26 @@
+* {
+  flex: content;
+  align-items: center;
+}
+
+.form {
+  background-color: rgb(108, 221, 97);
+  margin: 50px;
+  padding: 50px;
+}
+
+nav {
+  /* position: absolute; */
+  padding: 10px;
+  display: table;
+  text-align: center;
+  margin-right: relative;
+  margin-left: relative;
+  top: auto;
+}
+
+.cal {
+  background-color: rgb(77, 71, 63);
+  padding-left: 30px;
+  margin-right: 0%;
+}
